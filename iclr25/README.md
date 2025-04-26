@@ -6,7 +6,7 @@ Location: Peridot 202-203
 
 Time: Sat 26 Apr 1 p.m. - 2 p.m. +08
 
-Slides: [link](https://tongyx361.github.io/blogs/posts/verl-intro/#/title-slide)
+Slides: [infra](https://tongyx361.github.io/blogs/posts/verl-intro/#/title-slide), [algorithm](https://github.com/eric-haibin-lin/verl-community/blob/main/iclr25/DAPO%2BVAPO.pdf)
 
 Demo notebook on volcano engine cloud: [link](https://console.byteplus.com/ml-platform/region:ml-platform+ap-southeast-1/modelPractice/detail?id=mp-20250424173127-wrc8q )
 
