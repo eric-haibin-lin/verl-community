@@ -6,12 +6,14 @@ Location: Peridot 202-203
 
 Time: Sat 26 Apr 1 p.m. - 2 p.m. +08
 
-Slides available [here](https://tongyx361.github.io/blogs/posts/verl-intro/#/title-slide)
+Slides: [link](https://tongyx361.github.io/blogs/posts/verl-intro/#/title-slide)
+
+Demo notebook on volcano engine cloud: [link](https://console.byteplus.com/ml-platform/region:ml-platform+ap-southeast-1/modelPractice/detail?id=mp-20250424173127-wrc8q )
 
 # GPU Quota for Volcano Engine Cloud
 
 Please submit your email [here](https://docs.google.com/forms/d/e/1FAIpQLSf5bWDd5k6mwlmG340HjMwivsVZK1sHPQ99T8s9pqdbKQykHw/viewform?usp=dialog
-) to access free GPUs from volcano engine cloud. The access credentials will be sent to your email a few miniutes after submission.
+) to access free GPUs from volcano engine cloud during the talk. The access credentials will be sent to your email a few miniutes after submission.
 
 # Ask Questions on Slack
 
